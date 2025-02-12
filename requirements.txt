@@ -8,7 +8,7 @@ click==8.1.8
 colorama==0.4.6
 deepface==0.0.93
 Deprecated==1.2.18
-dlib @ https://drive.google.com/file/d/1md1zYdTzUPQTW2lFg_0bYAYmVFsxBewa/view?usp=sharing
+dlib @ https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/main/dlib-19.24.99-cp312-cp312-win_amd64.whl
 face-recognition==1.3.0
 face_recognition_models==0.3.0
 filelock==3.17.0
